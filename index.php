@@ -235,7 +235,7 @@
                                 </ul>
                             </div>
                             <div class="plan-button">
-                                <a href="tel:0931311728" target="_blank"><button type="button"
+                                <a href="tel:0882528227" target="_blank"><button type="button"
                                         class="btn btn-common btn-effect">ติดต่อ</button></a>
                             </div>
                         </div>
@@ -256,7 +256,7 @@
                                 </ul>
                             </div>
                             <div class="plan-button">
-                                <a href="tel:0931311728" target="_blank"><button type="button"
+                                <a href="tel:0882528227" target="_blank"><button type="button"
                                         class="btn btn-common btn-effect">ติดต่อ</button></a>
                             </div>
                         </div>
@@ -386,7 +386,7 @@
                                 </ul>
                             </div>
                             <div class="plan-button">
-                                <a href="tel:0931311728" target="_blank"><button type="button"
+                                <a href="tel:0882528227" target="_blank"><button type="button"
                                         class="btn btn-common btn-effect">ติดต่อ</button></a>
                             </div>
                         </div>
@@ -405,7 +405,7 @@
                                 </ul>
                             </div>
                             <div class="plan-button">
-                                <a href="tel:0931311728" target="_blank"><button type="button"
+                                <a href="tel:0882528227" target="_blank"><button type="button"
                                         class="btn btn-common btn-effect">ติดต่อ</button></a>
                             </div>
                         </div>
@@ -424,7 +424,7 @@
                                 </ul>
                             </div>
                             <div class="plan-button">
-                                <a href="tel:0931311728" target="_blank"><button type="button"
+                                <a href="tel:0882528227" target="_blank"><button type="button"
                                         class="btn btn-common btn-effect">ติดต่อ</button></a>
                             </div>
                         </div>
@@ -443,7 +443,7 @@
                                 </ul>
                             </div>
                             <div class="plan-button">
-                                <a href="tel:0931311728" target="_blank"><button type="button"
+                                <a href="tel:0882528227" target="_blank"><button type="button"
                                         class="btn btn-common btn-effect">ติดต่อ</button></a>
                             </div>
                         </div>
@@ -462,7 +462,7 @@
                                 </ul>
                             </div>
                             <div class="plan-button">
-                                <a href="tel:0931311728" target="_blank"><button type="button"
+                                <a href="tel:0882528227" target="_blank"><button type="button"
                                         class="btn btn-common btn-effect">ติดต่อ</button></a>
                             </div>
                         </div>
