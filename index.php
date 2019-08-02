@@ -656,12 +656,12 @@
                 <div class="col-lg-4 col-md-6 col-xs-12 blog-item ">
                     <!-- Blog Item Starts -->
                     <div class="blog-item-wrapper">
-                        <div class="blog-item-img">
+                    <a href="certificate/22222.pdf" target="_blank"><div class="blog-item-img">
                             <!-- <a href="single-post.html"> -->
-                            <a href="certificate/22222.pdf" target="_blank"><img src="img/certificate/cer2.jpg"
-                                    alt=""></a>
+                            <img src="img/certificate/cer2.jpg"
+                                    alt="">
                             <!-- </a> -->
-                        </div>
+                        </div></a>
                     </div>
                     <!-- Blog Item Wrapper Ends-->
                 </div>
