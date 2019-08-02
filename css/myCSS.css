@@ -1,5 +1,23 @@
 /* .dropdown-toggle:hover .dropdown-menu {display: block;} */
 
+.btn-common1 {
+  background-color: rgb(255, 255, 255);
+  color: green;
+  position: relative;
+  z-index: 1;
+  padding: 12px 32px;
+  border-radius: 30px;
+  border-color: #008000;
+}
+
+.btn-common1:hover {
+  color: rgb(3, 105, 3);
+}
+
+.text-red{
+  color : rgb(255, 251, 0) !important;
+}
+
 .btn2 {
     font-size: 14px;
     padding: 10px 30px;
@@ -64,6 +82,13 @@
   color:#000000; 
 }
 
+.text-detail h5{
+  font-size: px;
+  padding-top: 0px;
+  margin-top: 0px;
+  color:#000000; 
+}
+
   .li-color {
     color:red;
     font-weight: bold;
@@ -116,6 +141,10 @@
   
   .btn-effect2:hover:after {
     width: 100%;
+  }
+
+  .facebook-icon img{
+     width: 70%;
   }
 
   .f-bg-performance{

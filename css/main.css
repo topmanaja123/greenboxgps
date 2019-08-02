@@ -1255,6 +1255,11 @@ button:focus {
   color: #35393D !important;
 }
 
+.services-item .color-7 i {
+  background: #F3EAD6;
+  color: #3066cb !important;
+}
+
 .services-item .services-content {
   padding-left: 65px;
 }
