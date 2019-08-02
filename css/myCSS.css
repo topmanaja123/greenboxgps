@@ -1,0 +1,170 @@
+/* .dropdown-toggle:hover .dropdown-menu {display: block;} */
+
+.btn2 {
+    font-size: 14px;
+    padding: 10px 30px;
+    border-radius: 30px;
+    font-weight: 400;
+    background-color: green;
+    color: green;
+    text-transform: uppercase;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    display: inline-block;
+
+    position: relative;
+    z-index: 1;
+  
+    border-style: solid;
+    border-color: green;
+    border-width: 1px;
+  }
+
+  .price-line {
+    color: #000000;
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: 500;
+    letter-spacing: -1px;
+    background-color: #fff !important;
+    border-bottom: 1px solid #e9edf2;
+    padding-bottom: 20px;
+
+  }
+
+  .span-price {
+    font-size: 12px;
+    padding-top: 0px;
+    margin-top: 0px;
+    color:red; 
+    font-weight: bold;
+  }
+
+  .text-small {
+    font-size: 12px;
+    padding-top: 0px;
+    margin-top: 0px;
+    color:#999; 
+    /* font-weight: bold; */
+  }
+
+.text-detail p{
+  font-size: 16px;
+  padding-top: 0px;
+  margin-top: 0px;
+  color:#000000; 
+}
+
+.text-detail h4{
+  font-size: 20px;
+  padding-top: 0px;
+  margin-top: 0px;
+  color:#000000; 
+}
+
+  .li-color {
+    color:red;
+    font-weight: bold;
+  }
+  
+
+  /* Style the active class (and buttons on mouse-over) */
+  .btn2:focus,
+  .btn2:active {
+    box-shadow: none;
+    outline: none;
+    color: #ff8000;
+  }
+
+  .active1{
+    color: green !important;
+    border-style: solid;
+    border-color: green;
+    border-width: 1px;
+    background: transparent;
+  }
+
+  /* .controls .active {
+    color: #F97794 !important;
+    border-color: #F97794;
+    background: transparent;
+  } */
+  
+  .btn-common2:hover {
+    color: rgb(0, 255, 21);
+  }
+  
+  .btn-effect2 {
+    overflow: hidden;
+  }
+  
+  .btn-effect2:after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 100%;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    background: rgba(0, 0, 0, 0.1);
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+  }
+  
+  .btn-effect2:hover:after {
+    width: 100%;
+  }
+
+  .f-bg-performance{
+    background-image: url("../img/feature/performance.png");
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    
+  }
+
+  .f-bg-map{
+    background-image: url("../img/feature/map.png");
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    
+  }
+
+  .f-bg-alert{
+    background-image: url("../img/feature/alert.png");
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    
+  }
+
+  .f-bg-fuel{
+    background-image: url("../img/feature/fuel.png");
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    
+  }
+
+  .f-bg-approve{
+    background-image: url("../img/feature/approve.png");
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    
+  }
+
+  
+  .f-bg-report{
+    background-image: url("../img/feature/report.png");
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    
+  }
+
+
