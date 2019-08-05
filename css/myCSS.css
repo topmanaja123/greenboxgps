@@ -197,3 +197,10 @@
   }
 
 
+  .subscribe-form .sub-title p {
+    font-size: 14px;
+  }
+
+  .f-bold {
+    font-weight: bold;
+  }

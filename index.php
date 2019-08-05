@@ -83,17 +83,16 @@
                     <div class="carousel-item active">
                         <img src="img/slider/BG.png" alt="">
                         <div class="carousel-caption text-left">
-                            <h2 class="wow fadeInRight" data-wow-delay="0.2s">จำหน่าย GPS</h1>
-                                <h1 class="wow fadeInRight" data-wow-delay="0.4s">VT900 (เครื่องเปล่า) ราคาส่ง</h1>
-                                <h4 class="wow fadeInRight" data-wow-delay="0.6s">ติดตั้งเอง สะดวก รวดเร็ว ง่าย ถูกกว่า
-                                    ไม่ต้องรอช่าง</h4>
-                                <h4 class="wow fadeInUp" data-wow-delay="0.8s">รับประกันเครื่อง 1 เดือน</h4>
-                                <h5 class="wow fadeInUp text-red" data-wow-delay="1s"> (งดขายเครื่องเปล่า
-                                    เฉพาะช่วงเดือนต่อทะเบียน)
+                            <h1 class="wow fadeInRight" data-wow-delay="0.2s">จำหน่าย GPS</h1>
+                            <h1 class="wow fadeInRight" data-wow-delay="0.4s">VT900 (เครื่องเปล่า) ราคาส่ง</h1>
+                            <h3 class="wow fadeInRight" data-wow-delay="0.6s">ติดตั้งเอง สะดวก รวดเร็ว ง่าย ถูกกว่า
+                                ไม่ต้องรอช่าง</h3>
+                            <h3 class="wow fadeInUp" data-wow-delay="0.8s">รับประกันเครื่อง 1 เดือน</h3>
+                            <h3 class="wow fadeInUp text-red" data-wow-delay="1s"> (งดขายเครื่องเปล่า
+                                เฉพาะช่วงเดือนต่อทะเบียน)
                                 </h5>
                                 <a href="http://vt900gps.lnwshop.com/" target="_BRANK"
-                                    class="btn btn-lg btn-common1 btn-effect wow flipInY"
-                                    data-wow-delay="1.4s">หน้าเว็บ</a>
+                                    class="btn btn-lg btn-border wow fadeInRight" data-wow-delay="1.4s">หน้าเว็บ</a>
                         </div>
                     </div>
                     <!-- <div class="carousel-item">
@@ -656,12 +655,13 @@
                 <div class="col-lg-4 col-md-6 col-xs-12 blog-item ">
                     <!-- Blog Item Starts -->
                     <div class="blog-item-wrapper">
-                    <a href="certificate/22222.pdf" target="_blank"><div class="blog-item-img">
-                            <!-- <a href="single-post.html"> -->
-                            <img src="img/certificate/cer2.jpg"
-                                    alt="">
-                            <!-- </a> -->
-                        </div></a>
+                        <a href="certificate/22222.pdf" target="_blank">
+                            <div class="blog-item-img">
+                                <!-- <a href="single-post.html"> -->
+                                <img src="img/certificate/cer2.jpg" alt="">
+                                <!-- </a> -->
+                            </div>
+                        </a>
                     </div>
                     <!-- Blog Item Wrapper Ends-->
                 </div>
@@ -670,55 +670,35 @@
     </section>
     <!-- blog Section End -->
 
-
     <!-- Subcribe Section Start -->
     <div id="subscribe" class="section">
         <div class="container">
-        <div class="section-header">
-                <h2 class="section-title ">contact</h2>
-                <!-- <span>Works</span> -->
-                <!-- <p class="section-subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos debitis.</p> -->
+            <div class="section-header">
+                <h2 class="section-title">Contact</h2>
             </div>
-            <div class="row justify-content-center">
+            <div class="row justify-content-between">
                 <div class="col-lg-12 col-md-12 col-xs-12">
-                    <div class="sub-item-box">
-                        <div class="subscribe-form">
-                            <div class="sub-title text-center">
-                                <h3>บริษัท มิรดา คอร์ปอเรชั่น จำกัด</h3>
-                                <p>สำนักงานใหญ่ ลำพูน 168 หมู่ 9 ต.อุโมงค์ อ.เมือง จ.ลำพูน</p>
-                            </div>
-                            <div class="text-detail">
-                                <p>โทร : <a href="tel:0882528227" target="_blank" style="color : black">
-                                        088-252-8227</a></p>
-                                <p>FAX : 052-033703</p>
-                                <p>Line ID : <a href="http://line.me/ti/p/~@greenboxgps">@greenboxgps</a>
-                                </p>
-                                <p>Email : <a href="mailto:admin@greenboxgps.com">admin@greenboxgps.com</a>
-                                </p>
+                    <div class="subscribe-form">
+                        <div class="form-wrapper">
+                            <div class="sub-title row">
+                                <div class="col-sm-12 col-md-6 col-lg-6">
 
-                                <h5 class="mt-3">ที่อยู่จัดส่งเอกสาร </h5>
-                                <p>ตู้ ปณ. 12 ปณ.อุโมง อ.เมือง จ.ลำพูน 51150 </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="container-fluid">
-            <div class="row justify-content-center">
-                <div class="col-lg-3">
-                    <div class="sub-item-box">
-                        <div class="subscribe-form">
-                            <div class="form-row">
-
-                                <div class="text-detail">
+                                    <h3>บริษัท มิรดา คอร์ปอเรชั่น จำกัด</h3>
+                                    <p>สำนักงานใหญ่ ลำพูน 168 หมู่ 9 ต.อุโมงค์ อ.เมือง จ.ลำพูน</p>
+                                    <p>โทร : 088-252-8227</p>
+                                    <p>FAX : 052-033703</p>
+                                    <p>Line ID : @greenboxgps</p>
+                                    <p>Email : admin@greenboxgps.com</p>
+                                    <p class="f-bold">ที่อยู่จัดส่งเอกสาร</p>
+                                    <p>ตู้ ปณ. 12 ปณ.อุโมง อ.เมือง จ.ลำพูน 51150</p>
+                                </div>
+                                <div class="col-sm-12 col-md-6 col-lg-6">
                                     <h4>ฝ่ายบัญชี และ ฝ่ายขาย</h4>
                                     <p>คุณนา</p>
-                                    <p>โทร : <a href="tel:0882528227" target="_blank"
-                                            style="color : black">088-252-8227</a>
+                                    <p>โทร : <a href="tel:0882528227" target="_blank" style="color : black">088-252-8227
+                                            Line : <a href="http://line.me/ti/p/~nuna_azay">nuna_azay</a></a>
                                     </p>
-                                    <p>Line ID : <a href="http://line.me/ti/p/~nuna_azay">nuna_azay</a></p>
+                                    <p></p>
                                     <p>(ฝ่ายขาย) Email : <a
                                             href="mailto:kantana@greenboxgps.com">kantana@greenboxgps.com</a>
                                     </p>
@@ -726,72 +706,15 @@
                                     <p>(ฝ่ายบัญชี) Email : <a
                                             href="mailto:admin@greenboxgps.com">admin@greenboxgps.com</a>
                                     </p>
-
                                 </div>
-
                             </div>
                         </div>
+
                     </div>
-
-                </div>
-
-                <div class="col-lg-3 col-md-6 col-xs-12">
-                    <div class="sub-item-box">
-                        <div class="subscribe-form">
-
-                            <div class="text-detail">
-                                <h4>ทีมช่างติดตั้ง ประจำพื้นที่ภาคตะวันออก</h4>
-                                <p>ทีมช่างเบิ้ม (อ.ศรีราชา จ.ชลบุรี)</p>
-                                <p>พื้นที่ ให้บริการ คลอบคลุม จังหวัด</p>
-                                <p>ชลบุรี ระยอง จันทบุรี ตราด สระแก้ว ปราจีนบุรี นครนายก สระบุรี ฉะเชิงเทรา
-                                    สมุทรปราการ
-                                    นนทบุรี ปทุมธานี นครปฐม ราชบุรี อยุธยา</p>
-                                <p>โทร : <a href="tel:0966725528" target="_blank" style="color : black">096-672-5528</a>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-xs-12">
-                    <div class="sub-item-box">
-                        <div class="subscribe-form">
-
-                            <div class="text-detail">
-                                <h4>ทีมช่างติดตั้ง ประจำพื้นที่ภาคใต้</h4>
-                                <p>ทีมช่างอาร์ม (อ.ทุ่งสง จ.นครศรีธรรมราช)</p>
-                                <p>พื้นที่ ให้บริการ คลอบคลุม จังหวัด</p>
-                                <p>ตรัง สงขลา หาดใหญ่ กระบี่ สุราษฎร์ธานี นครศรีธรรมราช ชุมพรบางอำเภอ</p>
-                                <p color='black'>โทร : <a href="tel:0935438827" target="_blank"
-                                        style="color : black">093-543-8827</a></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-6 col-md-6 col-xs-12">
-                    <div class="subscribe-form text-center">
-                    <a href="https://www.facebook.com/thaigps199/" target="_blank"><div class="btn btn-common1 btn-effect">
-                          facebook
-                        </div></a> 
-
-                        <a href="http://line.me/ti/p/~@greenboxgps" target="_blank"><div class="icon color-4 btn btn-common1 btn-effect">
-                          line@
-                        </div></a>
-                    </div>
-
                 </div>
             </div>
-
         </div>
-
-
-
-
-
     </div>
-
-    </div>
-
     <!-- Subcribe Section End -->
     </footer>
     <!-- Footer Section End -->
