@@ -50,7 +50,7 @@
     </header>
     <!-- Header Section End -->
 
-    <section id="services" class="section">
+    <section id="services" class="section2">
         <div class="container">
             <div class="section-header">
                 <h2 class="section-title">การรับประกัน</h2>
@@ -100,7 +100,7 @@
 
                         <br />
                         <p>ที่อยู่สำหรับส่งเครม</p>
-                        <p>ตู้ ปณ.112 ปณ.แม่เหียะ (เชียงใหม่2) 50100</p>
+                        <p>168 หมู่ 9 ต.อุโมงค์ อ.เมือง จ.ลำพูน</p>
 
                         <br />
                         <p class="li-color">กรณีต้องการซื้อไปติดตั้งเอง</p>

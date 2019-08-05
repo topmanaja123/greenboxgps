@@ -88,8 +88,7 @@
                                 <h3 class="wow fadeInRight" data-wow-delay="0.6s">ติดตั้งเอง สะดวก รวดเร็ว ง่าย ถูกกว่า
                                     ไม่ต้องรอช่าง</h3>
                                 <h3 class="wow fadeInUp" data-wow-delay="0.8s">รับประกันเครื่อง 1 เดือน</h3>
-                                <a href="http://vt900gps.lnwshop.com/" target="_blank"
-                                    class="btn btn-lg btn-border wow fadeInRight" data-wow-delay="1.4s">หน้าเว็บ</a>
+                 
                             </div>
                         </div>
                     </div>
@@ -229,7 +228,7 @@
                     <div class="col-lg-6 wow fadeInDown" data-wow-delay="0.2s">
                         <div class="pricing-table">
                             <div class="pricing-details">
-                                <h2>แพ็กเกจ G1</h2>
+                                <h2>แพ็กเกจ S1</h2>
                                 <div class="price-line">ติดตั้ง 6,000 บาท<br /><span class="span-price">( รายปี
                                         1,926 บาท / ปี )</span></div>
                                 <ul>
@@ -246,7 +245,7 @@
                     <div class="col-lg-6 wow fadeInDown" data-wow-delay="0.4s">
                         <div class="pricing-table">
                             <div class="pricing-details">
-                                <h2>แพ็กเกจ G2</h2>
+                                <h2>แพ็กเกจ S2</h2>
                                 <div class="price-line">ติดตั้ง 8,200 บาท
                                     <br /><span class="span-price">(
                                         จ่ายรายปี 1,300 บาท / ปี )</span>
@@ -339,7 +338,7 @@
                     <div class="col-lg-3 wow fadeInDown" data-wow-delay="0.2s">
                         <div class="pricing-table">
                             <div class="pricing-details">
-                                <h2>แพ็กเกจ รายเดือน</h2>
+                                <h2>แพ็กเกจ PM</h2>
                                 <div class="price-line">ติดตั้ง 4,000 บาท<br /><span class="span-price">( รายเดือน
                                         300 บาท / เดือน )</span></div>
                                 <ul>
@@ -359,7 +358,7 @@
                     <div class="col-lg-3 wow fadeInDown" data-wow-delay="0.4s">
                         <div class="pricing-table">
                             <div class="pricing-details">
-                                <h2>แพ็กเกจ รายปี Low cost</h2>
+                                <h2>แพ็กเกจ PL</h2>
                                 <div class="price-line">ติดตั้ง 6,800 บาท<br /><span class="span-price">( รายปี
                                         1,800 บาท / ปี )</span></div>
                                 <ul>
@@ -378,7 +377,7 @@
                     <div class="col-lg-3 wow fadeInDown" data-wow-delay="0.6s">
                         <div class="pricing-table">
                             <div class="pricing-details">
-                                <h2>แพ็กเกจ รายปี VIP</h2>
+                                <h2>แพ็กเกจ PV</h2>
                                 <div class="price-line">ติดตั้ง 9,900 บาท<br /><span class="span-price">( รายปี
                                         1,000 บาท / เดือน )</span></div>
                                 <ul>
@@ -434,7 +433,7 @@
                     <div class="col-sm-12 col-md-4 wow fadeInDown" data-wow-delay="0.2s">
                         <div class="pricing-table">
                             <div class="pricing-details">
-                                <h2>แพ็กเกจ รายเดือน(3G)</h2>
+                                <h2>แพ็กเกจ FM1</h2>
                                 <div class="price-line">ติดตั้ง 3,500 <br /><span class="span-price">( รายเดือน
                                         300 บาท / เดือน )</span></div>
                                 <ul>
@@ -453,7 +452,7 @@
                     <div class="col-sm-12 col-md-4 wow fadeInDown" data-wow-delay="0.4s">
                         <div class="pricing-table">
                             <div class="pricing-details">
-                                <h2>แพ็กเกจ รายเดือน(3G)</h2>
+                                <h2>แพ็กเกจ FM2</h2>
                                 <div class="price-line">ติดตั้ง 4,000 <br /><span class="span-price">( รายเดือน
                                         100 บาท / เดือน )</span></div>
                                 <ul>
@@ -472,7 +471,7 @@
                     <div class="col-sm-12 col-md-4 wow fadeInDown" data-wow-delay="0.6s">
                         <div class="pricing-table">
                             <div class="pricing-details">
-                                <h2>แพ็กเกจ รายปี Low cost</h2>
+                                <h2>แพ็กเกจ FL</h2>
                                 <div class="price-line">ติดตั้ง 6,500 <br /><span class="span-price">( รายปี
                                         1,800 บาท / ปี )</span></div>
                                 <ul>
@@ -491,7 +490,7 @@
                     <div class="col-sm-12 col-md-4 wow fadeInDown" data-wow-delay="0.8s">
                         <div class="pricing-table">
                             <div class="pricing-details">
-                                <h2>แพ็กเกจ รายปี VIP</h2>
+                                <h2>แพ็กเกจ FV</h2>
                                 <div class="price-line">ติดตั้ง 8,500 <br /><span class="span-price">( รายปี
                                         1,000 บาท / ปี )</span></div>
                                 <ul>

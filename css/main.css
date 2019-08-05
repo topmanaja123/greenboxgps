@@ -95,6 +95,10 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   padding: 40px 0;
 }
 
+.section2 {
+  padding: 80px 0;
+}
+
 .section-header {
   color: #fff;
   margin-bottom: 40px;

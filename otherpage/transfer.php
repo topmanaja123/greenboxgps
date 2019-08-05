@@ -49,7 +49,7 @@
     </header>
     <!-- Header Section End -->
 
-    <section id="services" class="section">
+    <section id="services" class="section2">
         <div class="container">
             <div class="section-header">
                 <h2 class="section-title">แจ้งโอนเงิน</h2>
