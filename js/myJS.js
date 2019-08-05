@@ -1,30 +1,38 @@
 function showPrice(id1) {
 
-  
+  var dltSetup = document.getElementById("dltSetup");
   var dlt = document.getElementById("dlt");
   var post = document.getElementById("post");
   var free = document.getElementById("free");
 
   var type = id1;
   console.log(type);
-
-  if (type == "dlt") {
+if (type == "dltSetup") {
+  dltSetup.style.display = "block";
+  dlt.style.display = "none";
+    post.style.display = "none";
+    free.style.display = "none";
+}
+  else if (type == "dlt") {
     dlt.style.display = "block";
     post.style.display = "none";
     free.style.display = "none";
+    dltSetup.style.display = "none";
   } else if (type == "post") {
     post.style.display = "block";
     dlt.style.display = "none";
     free.style.display = "none";
+    dltSetup.style.display = "none";
 
   } else if (type == "free") {
     free.style.display = "block";
     post.style.display = "none";
     dlt.style.display = "none";
+    dltSetup.style.display = "none";
 
   }
 }
-// dlt.style.display = "none";
+dlt.style.display = "none";
     post.style.display = "none";
     free.style.display = "none";
 

@@ -143,16 +143,11 @@
     width: 100%;
   }
 
-  .facebook-icon img{
-     width: 70%;
-  }
-
-  .f-bg-performance{
+   .f-bg-performance{
     background-image: url("../img/feature/performance.png");
     background-position: center;
     background-size: cover;
     position: relative;
-    
   }
 
   .f-bg-map{

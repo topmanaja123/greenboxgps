@@ -61,13 +61,11 @@
                             <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true"
                                 aria-expanded="false">เพิ่มเติม</a>
                             <div class="dropdown-menu animated bounceIn">
-                                <a class="dropdown-item" href="vouch.php">รับประกัน</a>
-                                <a class="dropdown-item" href="transfer.php">แจ้งโอนเงิน</a>
+                                <a class="dropdown-item" href="otherpage/vouch.php">รับประกัน</a>
+                                <a class="dropdown-item" href="otherpage/transfer.php">แจ้งโอนเงิน</a>
                             </div>
                         </li>
                     </ul>
-
-
                 </div>
             </div>
         </nav>
@@ -79,33 +77,39 @@
                     <li data-target="#carousel-slider" data-slide-to="0" class="active"></li>
                     <!-- <li data-target="#carousel-slider" data-slide-to="1"></li> -->
                 </ol>
+
                 <div class="carousel-inner" role="listbox">
                     <div class="carousel-item active">
-                        <img src="img/slider/BG.png" alt="">
-                        <div class="carousel-caption text-left">
-                            <h1 class="wow fadeInRight" data-wow-delay="0.2s">จำหน่าย GPS</h1>
-                            <h1 class="wow fadeInRight" data-wow-delay="0.4s">VT900 (เครื่องเปล่า) ราคาส่ง</h1>
-                            <h3 class="wow fadeInRight" data-wow-delay="0.6s">ติดตั้งเอง สะดวก รวดเร็ว ง่าย ถูกกว่า
-                                ไม่ต้องรอช่าง</h3>
-                            <h3 class="wow fadeInUp" data-wow-delay="0.8s">รับประกันเครื่อง 1 เดือน</h3>
-                            <h3 class="wow fadeInUp text-red" data-wow-delay="1s"> (งดขายเครื่องเปล่า
-                                เฉพาะช่วงเดือนต่อทะเบียน)
-                                </h5>
-                                <a href="http://vt900gps.lnwshop.com/" target="_BRANK"
+                        <div class="resPhotoB">
+             
+                            <div class="carousel-caption text-left">
+                                <h1 class="wow fadeInRight" data-wow-delay="0.2s">จำหน่าย GPS</h1>
+                                <h1 class="wow fadeInRight" data-wow-delay="0.4s">VT900 (ชุดติดตั้งเอง)</h1>
+                                <h3 class="wow fadeInRight" data-wow-delay="0.6s">ติดตั้งเอง สะดวก รวดเร็ว ง่าย ถูกกว่า
+                                    ไม่ต้องรอช่าง</h3>
+                                <h3 class="wow fadeInUp" data-wow-delay="0.8s">รับประกันเครื่อง 1 เดือน</h3>
+                                <a href="http://vt900gps.lnwshop.com/" target="_blank"
                                     class="btn btn-lg btn-border wow fadeInRight" data-wow-delay="1.4s">หน้าเว็บ</a>
+                            </div>
                         </div>
                     </div>
-                    <!-- <div class="carousel-item">
-                        <img src="img/slider/bg-3.jpg" alt="">
-                        <div class="carousel-caption text-right">
-                            <h3 class="wow fadeInDown" data-wow-delay="0.3s">Bundled With Tons of</h3>
-                            <h2 class="wow fadeInRight" data-wow-delay="0.6s">Cutting-edge Features</h2>
-                            <h4 class="wow fadeInUp" data-wow-delay="0.9s">Parallax, Video, Product, Premium Addons and
-                                More...</h4>
-                            <a href="#" class="btn btn-lg btn-common btn-effect wow fadeInUp" data-wow-delay="1.2s">View
-                                Works</a>
+
+                    <div class="carousel-item">
+                        <div class="resPhotoM">
+                     
+                            <div class="carousel-caption text-left">
+                                <h1 class="wow fadeInRight" data-wow-delay="0.2s">จำหน่าย GPS</h1>
+                                <h1 class="wow fadeInRight" data-wow-delay="0.4s">VT900 (เครื่องเปล่า) ราคาส่ง</h1>
+                    
+                                <h3 class="wow fadeInUp" data-wow-delay="0.8s">รับประกันเครื่อง 1 เดือน</h3>
+                                <h3 class="wow fadeInUp text-red" data-wow-delay="1s"> (งดขายเครื่องเปล่า
+                                    เฉพาะช่วงเดือนต่อทะเบียน)
+                                </h3>
+                                <a href="http://vt900gps.lnwshop.com/" target="_blank"
+                                    class="btn btn-lg btn-border wow fadeInRight" data-wow-delay="1.4s">หน้าเว็บ</a>
+                            </div>
                         </div>
-                        </div>-->
+                    </div>
                 </div>
                 <a class="carousel-control-prev" href="#carousel-slider" role="button" data-slide="prev">
                     <span class="carousel-control" aria-hidden="true"><i class="lni-chevron-left"></i></span>
@@ -122,7 +126,7 @@
     <!-- Header Section End -->
 
     <!-- Services Section Start -->
-    <section id="services" class="call-action section">
+    <section id="services" class="call-action section d-none d-md-block">
         <div class="container">
             <div class="section-header">
                 <h2 class="section-title">GPS Features</h2>
@@ -201,8 +205,11 @@
                 <div class="col-md-12">
                     <!-- Portfolio Controller/Buttons -->
                     <div id="divBtn" class="controls text-center">
-                        <a class="btn2 active1 btn-effect" onClick="showPrice('dlt');">
-                            โปร DLT
+                        <a class="btn2 active1 btn-effect" onClick="showPrice('dltSetup');">
+                            DLT ติดตั้งเอง
+                        </a>
+                        <a class="btn2 btn-effect" onClick="showPrice('dlt');">
+                            DLT พร้อมติดตั้ง
                         </a>
                         <a class="btn2 btn-effect" onClick="showPrice('post');">
                             โปร POST
@@ -215,9 +222,62 @@
                 </div>
             </div>
         </div>
+        <!-- DLT ติดตั้งเอง -->
+        <div id="dltSetup" class="col dlt">
+            <div class="container">
+                <div class="row  justify-content-center">
+                    <div class="col-lg-6 wow fadeInDown" data-wow-delay="0.2s">
+                        <div class="pricing-table">
+                            <div class="pricing-details">
+                                <h2>แพ็กเกจ G1</h2>
+                                <div class="price-line">ติดตั้ง 6,000 บาท<br /><span class="span-price">( รายปี
+                                        1,926 บาท / ปี )</span></div>
+                                <ul>
+                                    <li>* ฟรี ค่าบริการรายปี แรก</li>
+                                    <li>* รับประกันตัวเครื่อง 3 ปีนับจากวันติดตั้งแล้วเสร็จ</li>
+                                </ul>
+                            </div>
+                            <div class="plan-button">
+                                <a href="tel:0882528227" target="_blank"><button type="button"
+                                        class="btn btn-common btn-effect">ติดต่อ</button></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 wow fadeInDown" data-wow-delay="0.4s">
+                        <div class="pricing-table">
+                            <div class="pricing-details">
+                                <h2>แพ็กเกจ G2</h2>
+                                <div class="price-line">ติดตั้ง 8,200 บาท
+                                    <br /><span class="span-price">(
+                                        จ่ายรายปี 1,300 บาท / ปี )</span>
+                                </div>
+                                <ul>
+                                    <li>* ฟรี ค่าบริการรายปี แรก</li>
+                                    <li>* รับประกันตัวเครื่อง 3 ปีนับจากวันติดตั้งแล้วเสร็จ</li>
+
+                                </ul>
+                            </div>
+                            <div class="plan-button">
+                                <a href="tel:0882528227" target="_blank"><button type="button"
+                                        class="btn btn-common btn-effect">ติดต่อ</button></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="text-small wow fadeInDown" data-wow-delay="0.6s">
+                    <b> เงื่อนไขของราคานี้ </b><br />
+                    - ราคานี้ต้องติดตั้ง ภายใน 31 กรกฎาคา 2562<br />
+                    - สงวนสิทธิ์ เปลี่ยนแปลงรุ่นเครื่อง GPS โดยไม่ต้องแจ้งให้ทราบล่วงหน้า<br />
+                    - ติดตั้งเฉพาะรถบรรทุกเท่านั้น<br />
+                    - ราคาโปรโมชั่น งดทำใบเสนอราคา<br />
+                    - ราคานี้รวม Vat 7% แล้ว<br />
+                </div>
+            </div>
+        </div>
+        <!-- END DLT -->
 
 
-        <!-- DLT -->
+        <!-- DLT พร้อมติดตั้ง-->
         <div id="dlt" class="col dlt">
             <div class="container">
                 <div class="row">
@@ -228,7 +288,6 @@
                                 <div class="price-line">ติดตั้ง 7,800 บาท<br /><span class="span-price">( รายปี
                                         1,926 บาท / ปี )</span></div>
                                 <ul>
-                                    <li class="li-color">ซื้อไปติดตั้งเอง รับส่วนลด 1,800 บาท</li>
                                     <li>* ฟรี ค่าบริการรายปี แรก</li>
                                     <li>* รับประกันตัวเครื่อง 3 ปีนับจากวันติดตั้งแล้วเสร็จ</li>
                                 </ul>
@@ -251,7 +310,7 @@
                                 <ul>
                                     <li>* ฟรี ค่าบริการรายปี แรก</li>
                                     <li>* รับประกันตัวเครื่อง 3 ปีนับจากวันติดตั้งแล้วเสร็จ</li>
-                                    <li class="text-white">-</li>
+
                                 </ul>
                             </div>
                             <div class="plan-button">

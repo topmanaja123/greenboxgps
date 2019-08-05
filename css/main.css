@@ -1669,12 +1669,13 @@ button:focus {
 
 #carousel-area .carousel-item {
   background-size: 100%;
+
 }
 
 #carousel-area .carousel-item .carousel-caption {
   top: 30%;
   right: 10%;
-  left: 12%;
+  left: 15%;
   text-shadow: none;
   padding-top: 0;
   padding-bottom: 0;
@@ -1691,6 +1692,7 @@ button:focus {
   font-size: 55px;
   font-weight: 700;
   color: #fff;
+  
 }
 
 #carousel-area .carousel-item .carousel-caption h3 {
@@ -2121,7 +2123,6 @@ textarea {
 #subscribe {
   background: url(../img/slider/footter.png);
   position: relative;
-
 }
 
 .subscribe-form .sub-title {

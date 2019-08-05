@@ -35,6 +35,17 @@
   .item-boxes h4 {
     font-size: 16px;
   }
+
+  .resPhotoB{
+    background-image: url("../img/slider/BG.png");
+    height: 650px;
+  }
+
+  .resPhotoM{
+    background-image: url("../img/slider/BG2.png");
+    height: 650px;
+  }
+
   #carousel-area .carousel-item .carousel-caption {
     top: 35%;
   }
@@ -141,10 +152,17 @@
   #carousel-area .carousel-item .carousel-caption {
     top: 40%;
   }
-  #carousel-area .carousel-item img {
-    /* width: 100%; */
-    /* height: 200px; */
+
+  .resPhotoB{
+    background-image: url("../img/slider/BG_setup.png");
+    height: 650px;
   }
+
+  .resPhotoM{
+    background-image: url("../img/slider/BG2_1.png");
+    height: 650px;
+  }
+
   #carousel-area .carousel-item .carousel-caption h3 {
     font-size: 16px;
   }
@@ -295,8 +313,20 @@
   #carousel-area .carousel-item .carousel-caption {
     top: 40%;
   }
+
+  .resPhotoB{
+    background-image:  url("../img/slider/bgmain.png");
+    height: 650px;
+  }
+
+  .resPhotoM{
+    background-image: url("../img/slider/bgmain.png");
+    height: 650px;
+  }
+
   #carousel-area .carousel-item .carousel-caption h1 {
     font-size: 20px;
+   
   }
   #carousel-area .carousel-item .carousel-caption h2 {
     font-size: 18px;
