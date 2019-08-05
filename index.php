@@ -75,7 +75,7 @@
             <div id="carousel-slider" class="carousel slide carousel-fade" data-ride="carousel">
                 <ol class="carousel-indicators">
                     <li data-target="#carousel-slider" data-slide-to="0" class="active"></li>
-                    <!-- <li data-target="#carousel-slider" data-slide-to="1"></li> -->
+                    <li data-target="#carousel-slider" data-slide-to="1"></li>
                 </ol>
 
                 <div class="carousel-inner" role="listbox">
@@ -744,20 +744,19 @@
 
                                     <h3>บริษัท มิรดา คอร์ปอเรชั่น จำกัด</h3>
                                     <p>สำนักงานใหญ่ ลำพูน 168 หมู่ 9 ต.อุโมงค์ อ.เมือง จ.ลำพูน</p>
-                                    <p>โทร : 088-252-8227</p>
+                                    <p>โทร : <a href="tel:0882528227" target="_blank">088-252-8227</a></p>
                                     <p>FAX : 052-033703</p>
-                                    <p>Line ID : @greenboxgps</p>
-                                    <p>Email : admin@greenboxgps.com</p>
+                                    <p>Line ID : <a href="http://line.me/ti/p/~@greenboxgps">@greenboxgps</a></p>
+                                    <p>Email : <a
+                                            href="mailto:admin@greenboxgps.com">admin@greenboxgps.com</a></p>
                                     <p class="f-bold">ที่อยู่จัดส่งเอกสาร</p>
                                     <p>ตู้ ปณ. 12 ปณ.อุโมง อ.เมือง จ.ลำพูน 51150</p>
                                 </div>
                                 <div class="col-sm-12 col-md-6 col-lg-6">
                                     <h4>ฝ่ายบัญชี และ ฝ่ายขาย</h4>
                                     <p>คุณนา</p>
-                                    <p>โทร : <a href="tel:0882528227" target="_blank" style="color : black">088-252-8227
-                                            Line : <a href="http://line.me/ti/p/~nuna_azay">nuna_azay</a></a>
-                                    </p>
-                                    <p></p>
+                                    <p>โทร : <a href="tel:0882528227" target="_blank">088-252-8227</a></p>
+                                    <p>Line : <a href="http://line.me/ti/p/~nuna_azay">nuna_azay</a></p>
                                     <p>(ฝ่ายขาย) Email : <a
                                             href="mailto:kantana@greenboxgps.com">kantana@greenboxgps.com</a>
                                     </p>
