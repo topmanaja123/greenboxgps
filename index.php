@@ -943,22 +943,23 @@
                                     <p>FAX : 052-033703</p>
                                     <p>Line ID : <a href="http://line.me/ti/p/~@greenboxgps">@greenboxgps</a></p>
                                     <p>Email : <a href="mailto:admin@greenboxgps.com">admin@greenboxgps.com</a></p>
-                                    <p class="f-bold">ที่อยู่จัดส่งเอกสาร</p>
+                                    <p class="f-bold mt-3">ที่อยู่จัดส่งเอกสาร</p>
                                     <p>ตู้ ปณ. 12 ปณ.อุโมง อ.เมือง จ.ลำพูน 51150</p>
                                 </div>
                                 <div class="col-sm-12 col-md-6 col-lg-6">
-                                    <h4>ฝ่ายบัญชี และ ฝ่ายขาย</h4>
-                                    <p>(ฝ่ายขาย) โทร : <a href="tel:0931311728" target="_blank">093-131-1728</a></p>
-                                    <p>(ฝ่ายบัญชี) โทร : <a href="tel:0903260474" target="_blank">090-326-0474</a></p>
+                                    <h4>ฝ่ายบัญชี</h4>
+                                    <p>โทร : <a href="tel:0903260474" target="_blank">090-326-0474</a></p>
                                     <p>Line : <a href="http://line.me/ti/p/~@greenboxgps">@greenboxgps</a></p>
-                                    <p>(ฝ่ายบัญชี) Email : <a
-                                            href="mailto:kantana@greenboxgps.com">kantana@greenboxgps.com</a>
-                                    </p>
+                                    <p>Email : <a href="mailto:kantana@greenboxgps.com">kantana@greenboxgps.com</a></p>
 
-                                    <p>(ฝ่ายขาย) Email : <a
-                                            href="mailto:admin@greenboxgps.com">admin@greenboxgps.com</a>
+                                    <h4 class="mt-3">ฝ่ายขาย</h4>
+                                    <p>โทร : <a href="tel:0931311728" target="_blank">093-131-1728</a></p>
+                                    <p>Line : <a href="http://line.me/ti/p/~@greenboxgps">@greenboxgps</a></p>
+                                    <p>Email : <a href="mailto:admin@greenboxgps.com">admin@greenboxgps.com</a>
                                     </p>
                                 </div>
+
+                                
                             </div>
                         </div>
 
