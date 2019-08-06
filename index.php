@@ -88,7 +88,7 @@
                                 <h1 class="wow fadeInRight" data-wow-delay="0.4s">VT900 (ชุดติดตั้งเอง)</h1>
                                 <h3 class="wow fadeInRight" data-wow-delay="0.6s">ติดตั้งเอง สะดวก รวดเร็ว ง่าย ถูกกว่า
                                     ไม่ต้องรอช่าง</h3>
-                                <h3 class="wow fadeInUp" data-wow-delay="0.8s">รับประกันเครื่อง 1 เดือน</h3>
+                                <h3 class="wow fadeInUp" data-wow-delay="0.8s">รับประกันเครื่อง 3 ปี</h3>
 
                             </div>
                         </div>
@@ -234,7 +234,7 @@
                                         1,926 บาท / ปี )</span></div>
                                 <ul>
                                     <li>* ฟรี ค่าบริการรายปี แรก</li>
-                                    <li>* รับประกันตัวเครื่อง 3 ปีนับจากวันติดตั้งแล้วเสร็จ</li>
+                                    <li>* รับประกันตัวเครื่อง 3 ปีนับจากวันที่ได้รับเครื่อง</li>
                                 </ul>
                             </div>
                             <div class="plan-button">
@@ -253,7 +253,7 @@
                                 </div>
                                 <ul>
                                     <li>* ฟรี ค่าบริการรายปี แรก</li>
-                                    <li>* รับประกันตัวเครื่อง 3 ปีนับจากวันติดตั้งแล้วเสร็จ</li>
+                                    <li>* รับประกันตัวเครื่อง 3 ปีนับจากวันที่ได้รับเครื่อง</li>
 
                                 </ul>
                             </div>
@@ -948,14 +948,14 @@
                                 </div>
                                 <div class="col-sm-12 col-md-6 col-lg-6">
                                     <h4>ฝ่ายบัญชี และ ฝ่ายขาย</h4>
-                                    <p>คุณนา</p>
-                                    <p>โทร : <a href="tel:0882528227" target="_blank">088-252-8227</a></p>
-                                    <p>Line : <a href="http://line.me/ti/p/~nuna_azay">nuna_azay</a></p>
-                                    <p>(ฝ่ายขาย) Email : <a
+                                    <p>(ฝ่ายขาย) โทร : <a href="tel:0931311728" target="_blank">093-131-1728</a></p>
+                                    <p>(ฝ่ายบัญชี) โทร : <a href="tel:0903260474" target="_blank">090-326-0474</a></p>
+                                    <p>Line : <a href="http://line.me/ti/p/~@greenboxgps">@greenboxgps</a></p>
+                                    <p>(ฝ่ายบัญชี) Email : <a
                                             href="mailto:kantana@greenboxgps.com">kantana@greenboxgps.com</a>
                                     </p>
 
-                                    <p>(ฝ่ายบัญชี) Email : <a
+                                    <p>(ฝ่ายขาย) Email : <a
                                             href="mailto:admin@greenboxgps.com">admin@greenboxgps.com</a>
                                     </p>
                                 </div>
