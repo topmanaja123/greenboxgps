@@ -77,7 +77,7 @@
 			},
 
 			load: {
-				filter: 'all',
+				filter: '.truck',
 				sort: false
 			},
 

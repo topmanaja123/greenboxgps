@@ -43,7 +43,11 @@
 
   .resPhotoM{
     background-image: url("../img/slider/BG2.png");
-    height: 650px;
+    /* width: 100%; */
+    height : 650px;
+    
+    /* min-width: 1024px; */
+
   }
 
   #carousel-area .carousel-item .carousel-caption {
@@ -159,7 +163,7 @@
   }
 
   .resPhotoM{
-    background-image: url("../img/slider/BG2_1.png");
+    background-image: url("../img/slider/555.png");
     height: 650px;
   }
 

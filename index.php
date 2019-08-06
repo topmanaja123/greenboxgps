@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Grayrids">
     <title>GreenboxGPS</title>
-    <link rel="icon" type="image/png" href="img/favicon/android-icon-36x36.png" >
+    <link rel="icon" type="image/gif" href="img/favicon/1398485941.gif">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -82,25 +82,25 @@
                 <div class="carousel-inner" role="listbox">
                     <div class="carousel-item active">
                         <div class="resPhotoB">
-             
-                            <div class="carousel-caption text-left">
+
+                            <div class="carousel-caption text-right">
                                 <h1 class="wow fadeInRight" data-wow-delay="0.2s">จำหน่าย GPS</h1>
                                 <h1 class="wow fadeInRight" data-wow-delay="0.4s">VT900 (ชุดติดตั้งเอง)</h1>
                                 <h3 class="wow fadeInRight" data-wow-delay="0.6s">ติดตั้งเอง สะดวก รวดเร็ว ง่าย ถูกกว่า
                                     ไม่ต้องรอช่าง</h3>
                                 <h3 class="wow fadeInUp" data-wow-delay="0.8s">รับประกันเครื่อง 1 เดือน</h3>
-                 
+
                             </div>
                         </div>
                     </div>
 
                     <div class="carousel-item">
                         <div class="resPhotoM">
-                     
-                            <div class="carousel-caption text-left">
+
+                            <div class="carousel-caption text-right">
                                 <h1 class="wow fadeInRight" data-wow-delay="0.2s">จำหน่าย GPS</h1>
                                 <h1 class="wow fadeInRight" data-wow-delay="0.4s">VT900 (เครื่องเปล่า) ราคาส่ง</h1>
-                    
+
                                 <h3 class="wow fadeInUp" data-wow-delay="0.8s">รับประกันเครื่อง 1 เดือน</h3>
                                 <h3 class="wow fadeInUp text-red" data-wow-delay="1s"> (งดขายเครื่องเปล่า
                                     เฉพาะช่วงเดือนต่อทะเบียน)
@@ -556,18 +556,20 @@
                 <div class="col-md-12">
                     <!-- Portfolio Controller/Buttons -->
                     <div class="controls text-center">
-                        <a class="filter active btn btn-common btn-effect" data-filter="all">
-                            ภาพรวม
-                        </a>
-                        <a class="filter btn btn-common btn-effect" data-filter=".design">
+                        <a class="filter active btn btn-common btn-effect" data-filter=".truck">
                             รถบรรทุก
                         </a>
-                        <a class="filter btn btn-common btn-effect" data-filter=".development">
-                            รถตู้
+                        <a class="filter btn btn-common btn-effect" data-filter=".bus">
+                            รถบัส
                         </a>
-                        <a class="filter btn btn-common btn-effect" data-filter=".print">
+                        <a class="filter btn btn-common btn-effect" data-filter=".post">
                             รถไปรษณีย์
                         </a>
+                        <a class="filter btn btn-common btn-effect" data-filter=".free">
+                            รถภาคสมัครใจ
+                        </a>
+                        
+
                     </div>
                     <!-- Portfolio Controller/Buttons Ends-->
                 </div>
@@ -575,15 +577,16 @@
 
             <!-- Portfolio Recent Projects -->
             <div id="portfolio" class="row">
-                <div class="col-lg-4 col-md-6 col-xs-12 mix print">
+                               <!-- truck -->
+                <div class="col-lg-4 col-md-6 col-xs-12 mix truck">
                     <div class="portfolio-item">
                         <div class="shot-item">
-                            <img src="img/car/post.jpg" alt="" />
+                            <img src="img/car/truck/truck.jpg" alt="" />
                             <div class="single-content">
                                 <div class="fancy-table">
                                     <div class="table-cell">
                                         <div class="zoom-icon">
-                                            <a class="lightbox" href="img/car/post.jpg"><i
+                                            <a class="lightbox" href="img/car/truck/truck.jpg"><i
                                                     class="lni-zoom-in item-icon"></i></a>
                                         </div>
                                         <a href="#">View Project</a>
@@ -593,15 +596,15 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-xs-12 mix design">
+                <div class="col-lg-4 col-md-6 col-xs-12 mix truck">
                     <div class="portfolio-item">
                         <div class="shot-item">
-                            <img src="img/car/truck.jpg" alt="" />
+                            <img src="img/car/truck/truck1.jpg" alt="" />
                             <div class="single-content">
                                 <div class="fancy-table">
                                     <div class="table-cell">
                                         <div class="zoom-icon">
-                                            <a class="lightbox" href="img/car/truck.jpg"><i
+                                            <a class="lightbox" href="img/car/truck/truck1.jpg"><i
                                                     class="lni-zoom-in item-icon"></i></a>
                                         </div>
                                         <a href="#">View Project</a>
@@ -611,15 +614,15 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-xs-12 mix design">
+                <div class="col-lg-4 col-md-6 col-xs-12 mix truck">
                     <div class="portfolio-item">
                         <div class="shot-item">
-                            <img src="img/car/truck1.jpg" alt="" />
+                            <img src="img/car/truck/truck2.jpg" alt="" />
                             <div class="single-content">
                                 <div class="fancy-table">
                                     <div class="table-cell">
                                         <div class="zoom-icon">
-                                            <a class="lightbox" href="img/car/truck1.jpg"><i
+                                            <a class="lightbox" href="img/car/truck/truck2.jpg"><i
                                                     class="lni-zoom-in item-icon"></i></a>
                                         </div>
                                         <a href="#">View Project</a>
@@ -629,15 +632,16 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-xs-12 mix design">
+
+                <div class="col-lg-4 col-md-6 col-xs-12 mix truck">
                     <div class="portfolio-item">
                         <div class="shot-item">
-                            <img src="img/car/truck2.jpg" alt="" />
+                            <img src="img/car/truck/truck3.jpg" alt="" />
                             <div class="single-content">
                                 <div class="fancy-table">
                                     <div class="table-cell">
                                         <div class="zoom-icon">
-                                            <a class="lightbox" href="img/car/truck2.jpg"><i
+                                            <a class="lightbox" href="img/car/truck/truck3.jpg"><i
                                                     class="lni-zoom-in item-icon"></i></a>
                                         </div>
                                         <a href="#">View Project</a>
@@ -647,15 +651,15 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-xs-12 mix ">
+                <div class="col-lg-4 col-md-6 col-xs-12 mix truck">
                     <div class="portfolio-item">
                         <div class="shot-item">
-                            <img src="img/car/deli.jpg" alt="" />
+                            <img src="img/car/truck/truck4.jpg" alt="" />
                             <div class="single-content">
                                 <div class="fancy-table">
                                     <div class="table-cell">
                                         <div class="zoom-icon">
-                                            <a class="lightbox" href="img/car/deli.jpg"><i
+                                            <a class="lightbox" href="img/car/truck/truck4.jpg"><i
                                                     class="lni-zoom-in item-icon"></i></a>
                                         </div>
                                         <a href="#">View Project</a>
@@ -665,15 +669,15 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-xs-12 mix development">
+                <div class="col-lg-4 col-md-6 col-xs-12 mix truck">
                     <div class="portfolio-item">
                         <div class="shot-item">
-                            <img src="img/car/van.jpg" alt="" />
+                            <img src="img/car/truck/truck5.jpg" alt="" />
                             <div class="single-content">
                                 <div class="fancy-table">
                                     <div class="table-cell">
                                         <div class="zoom-icon">
-                                            <a class="lightbox" href="img/car/van.jpg"><i
+                                            <a class="lightbox" href="img/car/truck/truck5.jpg"><i
                                                     class="lni-zoom-in item-icon"></i></a>
                                         </div>
                                         <a href="#">View Project</a>
@@ -683,6 +687,197 @@
                         </div>
                     </div>
                 </div>
+                <!-- end truck -->
+
+                <!-- post -->
+                <div class="col-lg-4 col-md-6 col-xs-12 mix post">
+                    <div class="portfolio-item">
+                        <div class="shot-item">
+                            <img src="img/car/post/post.jpg" alt="" />
+                            <div class="single-content">
+                                <div class="fancy-table">
+                                    <div class="table-cell">
+                                        <div class="zoom-icon">
+                                            <a class="lightbox" href="img/car/post/post.jpg"><i
+                                                    class="lni-zoom-in item-icon"></i></a>
+                                        </div>
+                                        <a href="#">View Project</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-xs-12 mix post">
+                    <div class="portfolio-item">
+                        <div class="shot-item">
+                            <img src="img/car/post/post2.jpg" alt="" />
+                            <div class="single-content">
+                                <div class="fancy-table">
+                                    <div class="table-cell">
+                                        <div class="zoom-icon">
+                                            <a class="lightbox" href="img/car/post/post2.jpg"><i
+                                                    class="lni-zoom-in item-icon"></i></a>
+                                        </div>
+                                        <a href="#">View Project</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end deli -->
+
+                <!-- free -->
+                <div class="col-lg-4 col-md-6 col-xs-12 mix free">
+                    <div class="portfolio-item">
+                        <div class="shot-item">
+                            <img src="img/car/free/free.jpg" alt="" />
+                            <div class="single-content">
+                                <div class="fancy-table">
+                                    <div class="table-cell">
+                                        <div class="zoom-icon">
+                                            <a class="lightbox" href="img/car/free/free.jpg"><i
+                                                    class="lni-zoom-in item-icon"></i></a>
+                                        </div>
+                                        <a href="#">View Project</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-xs-12 mix free">
+                    <div class="portfolio-item">
+                        <div class="shot-item">
+                            <img src="img/car/free/free1.jpg" alt="" />
+                            <div class="single-content">
+                                <div class="fancy-table">
+                                    <div class="table-cell">
+                                        <div class="zoom-icon">
+                                            <a class="lightbox" href="img/car/free/free1.jpg"><i
+                                                    class="lni-zoom-in item-icon"></i></a>
+                                        </div>
+                                        <a href="#">View Project</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end free -->
+
+                <!-- bus -->
+                <div class="col-lg-4 col-md-6 col-xs-12 mix bus">
+                    <div class="portfolio-item">
+                        <div class="shot-item">
+                            <img src="img/car/bus/bus.jpg" alt="" />
+                            <div class="single-content">
+                                <div class="fancy-table">
+                                    <div class="table-cell">
+                                        <div class="zoom-icon">
+                                            <a class="lightbox" href="img/car/bus/bus.jpg"><i
+                                                    class="lni-zoom-in item-icon"></i></a>
+                                        </div>
+                                        <a href="#">View Project</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-xs-12 mix bus">
+                    <div class="portfolio-item">
+                        <div class="shot-item">
+                            <img src="img/car/bus/bus1.jpg" alt="" />
+                            <div class="single-content">
+                                <div class="fancy-table">
+                                    <div class="table-cell">
+                                        <div class="zoom-icon">
+                                            <a class="lightbox" href="img/car/bus/bus1.jpg"><i
+                                                    class="lni-zoom-in item-icon"></i></a>
+                                        </div>
+                                        <a href="#">View Project</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-xs-12 mix bus">
+                    <div class="portfolio-item">
+                        <div class="shot-item">
+                            <img src="img/car/bus/bus3.jpg" alt="" />
+                            <div class="single-content">
+                                <div class="fancy-table">
+                                    <div class="table-cell">
+                                        <div class="zoom-icon">
+                                            <a class="lightbox" href="img/car/bus/bus3.jpg"><i
+                                                    class="lni-zoom-in item-icon"></i></a>
+                                        </div>
+                                        <a href="#">View Project</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-xs-12 mix bus">
+                    <div class="portfolio-item">
+                        <div class="shot-item">
+                            <img src="img/car/bus/bus4.jpg" alt="" />
+                            <div class="single-content">
+                                <div class="fancy-table">
+                                    <div class="table-cell">
+                                        <div class="zoom-icon">
+                                            <a class="lightbox" href="img/car/bus/bus4.jpg"><i
+                                                    class="lni-zoom-in item-icon"></i></a>
+                                        </div>
+                                        <a href="#">View Project</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-xs-12 mix bus">
+                    <div class="portfolio-item">
+                        <div class="shot-item">
+                            <img src="img/car/bus/bus5.jpg" alt="" />
+                            <div class="single-content">
+                                <div class="fancy-table">
+                                    <div class="table-cell">
+                                        <div class="zoom-icon">
+                                            <a class="lightbox" href="img/car/bus/bus5.jpg"><i
+                                                    class="lni-zoom-in item-icon"></i></a>
+                                        </div>
+                                        <a href="#">View Project</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-xs-12 mix bus">
+                    <div class="portfolio-item">
+                        <div class="shot-item">
+                            <img src="img/car/bus/bus6.jpg" alt="" />
+                            <div class="single-content">
+                                <div class="fancy-table">
+                                    <div class="table-cell">
+                                        <div class="zoom-icon">
+                                            <a class="lightbox" href="img/car/bus/bus6.jpg"><i
+                                                    class="lni-zoom-in item-icon"></i></a>
+                                        </div>
+                                        <a href="#">View Project</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                 <!-- end bus -->
+
             </div>
         </div>
         <!-- Container Ends -->
@@ -747,8 +942,7 @@
                                     <p>โทร : <a href="tel:0882528227" target="_blank">088-252-8227</a></p>
                                     <p>FAX : 052-033703</p>
                                     <p>Line ID : <a href="http://line.me/ti/p/~@greenboxgps">@greenboxgps</a></p>
-                                    <p>Email : <a
-                                            href="mailto:admin@greenboxgps.com">admin@greenboxgps.com</a></p>
+                                    <p>Email : <a href="mailto:admin@greenboxgps.com">admin@greenboxgps.com</a></p>
                                     <p class="f-bold">ที่อยู่จัดส่งเอกสาร</p>
                                     <p>ตู้ ปณ. 12 ปณ.อุโมง อ.เมือง จ.ลำพูน 51150</p>
                                 </div>

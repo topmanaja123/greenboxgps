@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Grayrids">
     <title>GreenboxGPS</title>
-
+    <link rel="icon" type="image/gif" href="../img/favicon/1398485941.gif" >
     <!-- Bootstrap CSS -->
 
     <link rel="stylesheet" href="../css/bootstrap.min.css">
