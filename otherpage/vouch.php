@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Grayrids">
     <title>GreenboxGPS</title>
-    <link rel="icon" type="image/gif" href="../img/favicon/1398485941.gif" >
+    <link rel="icon" type="image/gif" href="../img/favicon/1398485941.gif">
     <!-- Bootstrap CSS -->
 
     <link rel="stylesheet" href="../css/bootstrap.min.css">
@@ -34,8 +34,7 @@
         <nav class="navbar navbar-expand-md fixed-top scrolling-navbar bg-white">
             <div class="container">
                 <a class="navbar-brand page-scroll" href="../index.php" style="color : green">GREENBOXGPS</a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
-                    aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                     <i class="lni-menu"></i>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -83,10 +82,9 @@
                             สามารถต่อประกันได้อีก เมื่อจ่ายค่าบริการเข้ามาภายใน 30 วัน</p>
                         <p> 11. จ่ายค่าบริการรายเดือนล่าช้าเกินกำหนดมากกว่า 30 วัน ถือว่าหมดประกัน
                             เป็นการถาวร และไม่สามารถจะต่อประกันได้อีก</p>
-                        <p> 12. เงื้อนไข การรับประกันตัวเครื่องตลอดอายุการใช้งาน
-                            เฉพาะ เครื่องที่จ่ายค่าบริการรายเดือน ไม่น้อยกว่า 300 บาทต่อเดือน เท่านั้น</p>
-                        <p> 13. เงื้อนไข การ Service ตลอดอายุการใช้งาน เฉพาะ เครื่องGPS
-                            ที่ยังไม่หมดประกันและจ่ายค่าบริการรายเดือน ไม่น้อยกว่า 300 บาท ต่อเดือนเท่านั้น</p>
+                        <p> 12. เงื้อนไข การ Service ตลอดอายุการใช้งาน เฉพาะ เครื่องGPS
+                            ที่ยังไม่หมดประกันและจ่ายค่าบริการรายเดือน/ตามกำหนด ไม่จ่ายล่าช้า เท่านั้น</p>
+                        <p> 13. การรับประกันจะสิ้นสุดลง เมื่อ รถคันที่ติดตั้ง มีการโอนเปลี่ยนเจ้าของใหม่</p>
                         <p> 14. การย้ายคันต้องกระทำภายใน 3 ปี หลังการติดตั้งลงในรถคันแรก การย้ายคันหลัง ปีที่ 3
                             ถือว่าหมดประกัน</p>
                         <p> 15. การรับประกันจะสิ้นสุดลง เมื่อไม่มีเครือข่ายโทรศัพท์มือถือที่สามารถให้บริการ internet
@@ -95,8 +93,7 @@
 
                         <p class="li-color">** การส่งเครมสินค้ามีค่าส่งกลับ 100 บาท</p>
                         <p class="li-color">** On Site Service (เฉพาะเครื่องติดตั้งกับทางบริษัทฯ)</p>
-                        <p class="li-color">- กรณีความผิดพลาดของ ตัวอุปกรณ์ และงานติดตั้ง ไม่คิดค่าบริการ</p>
-                        <p class="li-color">- กรณีความผิดพลาดของลูกค้า คิดค่าบริการ ครั้งละ 5,000 บาท </p>
+                        <p class="li-color">- กรณีความผิดพลาดของลูกค้า คิดค่าบริการ ครั้งละ 2,000 บาท </p>
 
                         <br />
                         <p>ที่อยู่สำหรับส่งเครม</p>
