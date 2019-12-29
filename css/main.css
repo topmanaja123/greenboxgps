@@ -1696,15 +1696,24 @@ button:focus {
   font-size: 55px;
   font-weight: 700;
   color: #fff;
-  text-shadow: #474747 3px 5px 2px, -2px -1px 9px #050404;
-  
+  /* text-shadow: #474747 3px 5px 2px, -2px -1px 9px #050404; */
+  text-shadow: 2px 2px 0 #050404, 2px -2px 0 #050404, -2px 2px 0 #050404, -2px -2px 0 #050404, 2px 0px 0 #050404, 0px 2px 0 #050404, -2px 0px 0 #050404, 0px -2px 0 #050404, 40px 40px 20px rgba(206,89,55,0);  
+}
+
+#carousel-area .carousel-item .carousel-caption h2 {
+  font-size: 45px;
+  font-weight: 300;
+  color: #fff;
+  /* text-shadow: #474747 3px 5px 2px, -2px -1px 9px #050404; */
+  text-shadow: 2px 2px 0 #050404, 2px -2px 0 #050404, -2px 2px 0 #050404, -2px -2px 0 #050404, 2px 0px 0 #050404, 0px 2px 0 #050404, -2px 0px 0 #050404, 0px -2px 0 #050404, 40px 40px 20px rgba(206,89,55,0);
 }
 
 #carousel-area .carousel-item .carousel-caption h3 {
   font-size: 40px;
   font-weight: 300;
   color: #fff;
-  text-shadow: #474747 3px 5px 2px, -2px -1px 9px #050404;
+  /* text-shadow: #474747 3px 5px 2px, -2px -1px 9px #050404; */
+  text-shadow: 2px 2px 0 #050404, 2px -2px 0 #050404, -2px 2px 0 #050404, -2px -2px 0 #050404, 2px 0px 0 #050404, 0px 2px 0 #050404, -2px 0px 0 #050404, 0px -2px 0 #050404, 40px 40px 20px rgba(206,89,55,0);
 }
 
 #carousel-area .carousel-item .carousel-caption h4 {

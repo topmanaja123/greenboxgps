@@ -191,11 +191,25 @@
     
   }
 
-
   .subscribe-form .sub-title p {
     font-size: 14px;
   }
 
   .f-bold {
     font-weight: bold;
+  }
+
+  .text-sha{
+    text-shadow: 1px 1px 0 #ffffff, 1px -1px 0 #ffffff, -1px 1px 0 #ffffff, -1px -1px 0 #ffffff, 1px 0px 0 #ffffff, 0px 1px 0 #ffffff, -1px 0px 0 #ffffff, 0px -1px 0 #ffffff, 1px 1px 1px rgba(70,206,0,0);
+  }
+
+  .modal {
+    position: absolute;
+    float: bottom;
+    /* height: 100%; */
+    width: 100%;
+    left: 50%;
+    top: 50%;
+
+    transform: translate(-50%, -50%);
   }

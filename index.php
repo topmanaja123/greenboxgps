@@ -29,7 +29,8 @@
 </head>
 
 <body>
-    <!-- Header Section Start -->
+
+
     <header id="slider-area">
         <nav class="navbar navbar-expand-md fixed-top scrolling-navbar bg-white">
             <div class="container">
@@ -77,10 +78,29 @@
                 <ol class="carousel-indicators">
                     <li data-target="#carousel-slider" data-slide-to="0" class="active"></li>
                     <li data-target="#carousel-slider" data-slide-to="1"></li>
+                    <li data-target="#carousel-slider" data-slide-to="2"></li>
                 </ol>
 
                 <div class="carousel-inner" role="listbox">
                     <div class="carousel-item active">
+                        <div class="resPhotoA">
+
+                            <div class="carousel-caption text-right">
+                                <h1 class="wow fadeInRight" data-wow-delay="0.2s">VT900-T (BOX)</h1>
+                                <h3 class="wow fadeInRight" data-wow-delay="0.4s">ผ่านการรับรอง กรมการขนส่งทางบก รุ่น
+                                    VT900-T</h3>
+                                <h3 class="wow fadeInRight" data-wow-delay="0.6s">ตัวเครื่องติดตั้ง บนคอนโซลรถ
+                                    เพื่อง่ายต่อการส่งซ่อม</h3>
+                                <h3 class="wow fadeInRight" data-wow-delay="0.8s">ลูกค้าสามารถถอดส่งซ่อมได้ด้วยตัวเอง
+                                    โดยไม่จำเป็นต้องรอช่าง และไม่ต้องแกะรถ</h3>
+                                <h3 class="wow fadeInUp" data-wow-delay="1s">รับประกันเครื่อง 3 ปี</h3>
+
+                                <h2 class="wow fadeInUp text-red" data-wow-delay="1.2s">ลูกค้าเก่า สามารถเปลี่ยนเป็นแบบกล่อง ฟรี!!</h2>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
                         <div class="resPhotoB">
 
                             <div class="carousel-caption text-right">
@@ -89,7 +109,6 @@
                                 <h3 class="wow fadeInRight" data-wow-delay="0.6s">ติดตั้งเอง สะดวก รวดเร็ว ง่าย ถูกกว่า
                                     ไม่ต้องรอช่าง</h3>
                                 <h3 class="wow fadeInUp" data-wow-delay="0.8s">รับประกันเครื่อง 3 ปี</h3>
-
                             </div>
                         </div>
                     </div>
@@ -102,8 +121,7 @@
                                 <h1 class="wow fadeInRight" data-wow-delay="0.4s">VT900 (เครื่องเปล่า) ราคาส่ง</h1>
 
                                 <h3 class="wow fadeInUp" data-wow-delay="0.8s">รับประกันเครื่อง 1 เดือน</h3>
-                                <h3 class="wow fadeInUp text-red" data-wow-delay="1s"> (งดขายเครื่องเปล่า
-                                    เฉพาะช่วงเดือนต่อทะเบียน)
+                                <h3 class="wow fadeInUp text-red" data-wow-delay="1s"> (โปรโมชั่นพิเศษซื้อ 10 เครื่องฟรี 1 เครื่อง ถึง 31 ธ.ค. 62!!)
                                 </h3>
                                 <a href="http://vt900gps.lnwshop.com/" target="_blank"
                                     class="btn btn-lg btn-border wow fadeInRight" data-wow-delay="1.4s">หน้าเว็บ</a>
@@ -206,7 +224,7 @@
                     <!-- Portfolio Controller/Buttons -->
                     <div id="divBtn" class="controls text-center">
                         <a class="btn2 active1 btn-effect" onClick="showPrice('dltSetup');">
-                            DLT ติดตั้งเอง
+                            DLT ชุดติดตั้งเอง
                         </a>
                         <a class="btn2 btn-effect" onClick="showPrice('dlt');">
                             DLT พร้อมติดตั้ง
@@ -230,7 +248,7 @@
                         <div class="pricing-table">
                             <div class="pricing-details">
                                 <h2>แพ็กเกจ S1</h2>
-                                <div class="price-line">ติดตั้ง 6,000 บาท<br /><span class="span-price">( รายปี
+                                <div class="price-line">ราคาชุดละ 6,000 บาท<br /><span class="span-price">( รายปี
                                         1,926 บาท / ปี )</span></div>
                                 <ul>
                                     <li>* ฟรี ค่าบริการรายปี แรก</li>
@@ -247,7 +265,7 @@
                         <div class="pricing-table">
                             <div class="pricing-details">
                                 <h2>แพ็กเกจ S2</h2>
-                                <div class="price-line">ติดตั้ง 8,200 บาท
+                                <div class="price-line">ราคาชุดละ 8,200 บาท
                                     <br /><span class="span-price">(
                                         จ่ายรายปี 1,300 บาท / ปี )</span>
                                 </div>
@@ -266,7 +284,7 @@
                 </div>
                 <div class="text-small wow fadeInDown" data-wow-delay="0.6s">
                     <b> เงื่อนไขของราคานี้ </b><br />
-                    - ราคานี้ต้องติดตั้ง ภายใน 31 กรกฎาคา 2562<br />
+                    - ราคานี้ต้องติดตั้ง ภายใน 31 สิงหาคม 2562<br />
                     - สงวนสิทธิ์ เปลี่ยนแปลงรุ่นเครื่อง GPS โดยไม่ต้องแจ้งให้ทราบล่วงหน้า<br />
                     - ติดตั้งเฉพาะรถบรรทุกเท่านั้น<br />
                     - ราคาโปรโมชั่น งดทำใบเสนอราคา<br />
@@ -322,7 +340,7 @@
                 </div>
                 <div class="text-small wow fadeInDown" data-wow-delay="0.6s">
                     <b> เงื่อนไขของราคานี้ </b><br />
-                    - ราคานี้ต้องติดตั้ง ภายใน 31 กรกฎาคา 2562<br />
+                    - ราคานี้ต้องติดตั้ง ภายใน 31 สิงหาคม 2562<br />
                     - สงวนสิทธิ์ เปลี่ยนแปลงรุ่นเครื่อง GPS โดยไม่ต้องแจ้งให้ทราบล่วงหน้า<br />
                     - ติดตั้งเฉพาะรถบรรทุกเท่านั้น<br />
                     - ราคาโปรโมชั่น งดทำใบเสนอราคา<br />
@@ -416,8 +434,8 @@
                 </div>
                 <div class="text-small wow fadeInDown" data-wow-delay="1s">
                     <b> เงื่อนไขของราคานี้ </b><br />
-                    - จองคิวติดตั้ง ภายใน 31 กรกฎาคา 2562<br />
-                    - ค้องติดตั้งให้แล้วเสร็จ ภายใน 31 สิหาคม 2562<br />
+                    - จองคิวติดตั้ง ภายใน 31 สิงหาคม 2562<br />
+                    - ต้องติดตั้งให้แล้วเสร็จ ภายใน 31 กันยายน 2562<br />
                     - ราคานี้เฉพาะติดตั้ง พื้นที่ภูมิภาค โดยช่างของ GreenboxGPS โดยตรง เท่านั้น<br />
                     - สงวนสิทธิ์ เปลี่ยนแปลงรุ่นเครื่อง GPS โดยไม่ต้องแจ้งให้ทราบล่วงหน้า<br />
                     - ราคาโปรโมชั่น งดทำใบเสนอราคา<br />
@@ -529,7 +547,7 @@
 
                 <div class="text-small wow fadeInDown" data-wow-delay="1.2s">
                     <b> เงื่อนไขของราคานี้ </b><br />
-                    - ราคานี้ต้องติดตั้ง ภายใน 31 ธันวาตม 2562<br />
+                    - ราคานี้ต้องติดตั้ง ภายใน 31 ธันวาคม 2562<br />
                     - สงวนสิทธิ์ เปลี่ยนแปลงรุ่นเครื่อง GPS โดยไม่ต้องแจ้งให้ทราบล่วงหน้า<br />
                     - แพ็กเกจรายเดือน ติดตั้งไม่คิดค่าเดินทางเฉพาะ ชลบุรี ระยอง ขอนแก่น เชียงใหม่ ลำพูน<br />
                     - ราคาโปรโมชั่น งดทำใบเสนอราคา<br />
@@ -568,7 +586,7 @@
                         <a class="filter btn btn-common btn-effect" data-filter=".free">
                             รถภาคสมัครใจ
                         </a>
-                        
+
 
                     </div>
                     <!-- Portfolio Controller/Buttons Ends-->
@@ -577,7 +595,7 @@
 
             <!-- Portfolio Recent Projects -->
             <div id="portfolio" class="row">
-                               <!-- truck -->
+                <!-- truck -->
                 <div class="col-lg-4 col-md-6 col-xs-12 mix truck">
                     <div class="portfolio-item">
                         <div class="shot-item">
@@ -876,7 +894,7 @@
                         </div>
                     </div>
                 </div>
-                 <!-- end bus -->
+                <!-- end bus -->
 
             </div>
         </div>
@@ -897,11 +915,13 @@
                 <div class="col-lg-4 col-md-6 col-xs-12 blog-item ">
                     <!-- Blog Item Starts -->
                     <div class="blog-item-wrapper">
-                        <div class="blog-item-img">
-                            <!-- <a href="single-post.html"> -->
-                            <img src="img/certificate/cer1.jpg" alt="">
-                            <!-- </a> -->
-                        </div>
+                        <a href="img/certificate/cer1.jpg" target="_blank">
+                            <div class="blog-item-img">
+                                <!-- <a href="single-post.html"> -->
+                                <img src="img/certificate/cer1.jpg" alt="">
+                                <!-- </a> -->
+                            </div>
+                        </a>
                     </div>
                     <!-- Blog Item Wrapper Ends-->
                 </div>
@@ -909,7 +929,7 @@
                 <div class="col-lg-4 col-md-6 col-xs-12 blog-item ">
                     <!-- Blog Item Starts -->
                     <div class="blog-item-wrapper">
-                        <a href="certificate/22222.pdf" target="_blank">
+                        <a href="otherpage/22222.pdf" target="_blank">
                             <div class="blog-item-img">
                                 <!-- <a href="single-post.html"> -->
                                 <img src="img/certificate/cer2.jpg" alt="">
@@ -936,7 +956,6 @@
                         <div class="form-wrapper">
                             <div class="sub-title row">
                                 <div class="col-sm-12 col-md-6 col-lg-6">
-
                                     <h3>บริษัท มิรดา คอร์ปอเรชั่น จำกัด</h3>
                                     <p>สำนักงานใหญ่ ลำพูน 168 หมู่ 9 ต.อุโมงค์ อ.เมือง จ.ลำพูน</p>
                                     <p>โทร : <a href="tel:0882528227" target="_blank">088-252-8227</a></p>
@@ -955,14 +974,13 @@
                                     <h4 class="mt-3">ฝ่ายขาย</h4>
                                     <p>โทร : <a href="tel:0931311728" target="_blank">093-131-1728</a></p>
                                     <p>Line : <a href="http://line.me/ti/p/~@greenboxgps">@greenboxgps</a></p>
-                                    <p>Email : <a href="mailto:admin@greenboxgps.com">admin@greenboxgps.com</a>
-                                    </p>
-                                </div>
+                                    <p>Email : <a href="mailto:admin@greenboxgps.com">admin@greenboxgps.com</a></p>
 
-                                
+                                    <h4 class="mt-3">ฝ่ายช่าง</h4>
+                                    <p>โทร : <a href="tel:0966725528" target="_blank">096-672-5528</a></p>
+                                </div>
                             </div>
                         </div>
-
                     </div>
                 </div>
             </div>
@@ -976,6 +994,31 @@
     <a href="#" class="back-to-top">
         <i class="lni-arrow-up"></i>
     </a>
+
+
+    <!-- Header Section Start -->
+    <!-- <div class="modal fade" id="myModal">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content"> -->
+
+                <!-- Modal body -->
+                <!-- <div class="modal-body">
+                    <h4 class="modal-title p-1" style="color:orange ">ประกาศ</h4>
+                    <p style="text-indent: 4em;">ลูกค้า <font style="color:red">รถ10ล้อ(ป้ายขาว)</font>
+                        ที่จะต้องมีคิวต่อทะเบียนในเดือนธันวาคม
+                        และต้องการจะติดตั้งในเดือนธันวาคม สามารถเริ่มติดตั้งได้เลย เนื่องจากในเดือนธันวาคม
+                        มีผู้ต้องการติดตั้งเป็นจำนวนมาก ทางบริษัท ไม่สามารถติดตั้งทั้งหมดได้ทันเวลา</p>
+                </div> -->
+
+                <!-- Modal footer -->
+                <!-- <div class="modal-footer">
+                    <button type="button" class="btn btn-sm" data-dismiss="modal">Close</button>
+                </div>
+
+            </div>
+        </div>
+    </div> -->
+
 
     <!-- load page -->
     <!-- <div id="loader">
@@ -1008,6 +1051,12 @@
     <script src="js/contact-form-script.js"></script>
     <script src="js/main.js"></script>
     <script src="js/myJS.js"></script>
+
+    <script>
+    $(window).on('load', function() {
+        $('#myModal').modal('show');
+    });
+    </script>
 
 
 </body>
